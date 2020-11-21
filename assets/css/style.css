@@ -55,6 +55,12 @@ h1,h2,h3,h4,h5,h6 {
 	color: #292b2c;
 	font-family: 'Roboto';
 }
+.list_none i{
+	color:black;
+}
+.list_none i:hover{
+	color:white;
+}
 p {
 	color:#687188;
 	line-height: 28px;
